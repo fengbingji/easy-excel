@@ -1,6 +1,6 @@
 <div align="center">
 
-# EASY EXCEL
+# EASY EXCEL 1
 
 <p>
     <a href="https://github.com/jqhph/easy-excel/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-7389D8.svg?style=flat" ></a>
